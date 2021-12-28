@@ -1,5 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuhanYeter&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BatuhanYeter&&hide=css,html&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BatuhanYeter&&hide=css&show_icons=true&include_all_commits=false&count_private=true&theme=dark&locale=en&layout=compact"/>
 
 ### My Challanges
 
