@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuhanYeter)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BatuhanYeter&&hide=css,html&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&layout=compact"/>
+
 ### My Challanges
 
 [<img align="left" alt="Codewars" src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=codewars&logoColor=red" />][codewars]
@@ -35,7 +38,6 @@
 <br>
   
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BatuhanYeter&&hide=css,html&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&layout=compact"/>
 
 
 [codewars]: https://www.codewars.com/users/BatuhanYeter
