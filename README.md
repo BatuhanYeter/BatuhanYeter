@@ -1,6 +1,5 @@
 ### :zap: GitHub Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/BatuhanYeter?cardType=github&theme=tokyonight&Ring=1A19FF)](https://git.io/awesome-stats-card)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 ### My Challanges
 
 [<img align="left" alt="Codewars" src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=codewars&logoColor=red" />][codewars]
