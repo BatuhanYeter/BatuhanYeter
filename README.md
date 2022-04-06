@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuhanYeter&show_icons=true&theme=radical&count_private=true&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuhanYeter&show_icons=true&theme=radical&count_private=true&hide=prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanYeter&hide=css,html&count_private=true)]
 
