@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BatuhanYeter&show_icons=true&theme=radical&count_private=true&hide=prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BatuhanYeter&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Challanges
 
