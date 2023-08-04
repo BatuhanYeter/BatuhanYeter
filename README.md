@@ -18,13 +18,6 @@
 <img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="left" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=w" /> 
 
-<br>
-<br>
-
-### My Challanges
-
-[<img align="left" alt="Codewars" src="https://img.shields.io/badge/Codewars-black?style=for-the-badge&logo=codewars&logoColor=red" />][codewars]
-[<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-orange?style=for-the-badge&logo=stack-overflow&logoColor=black" />][stackoverflow] 
 
 <br> 
 <br> 
@@ -32,7 +25,6 @@
 ### Connect with me 
 
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
-[<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][in]  
 
 <br> 
 <br> 
